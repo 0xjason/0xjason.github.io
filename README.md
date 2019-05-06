@@ -1,2 +1,2 @@
-Code skeleton taken from corndogs.io. 
+Code skeleton taken from corndog.io. 
 Learning some CSS while having fun. 
